@@ -17,7 +17,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: rurream/Saludo-Action-CF-rurream@vX.Y
+uses: rurream/Saludo-Action-CF-rurream@v1.1
 with:
   who-to-greet: Mona the Octocat
 ```
