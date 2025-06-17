@@ -1,4 +1,4 @@
-name: Saludo Action (CF-rurream)
+name: 'Saludo-Action-CF-rurream'
 description: Greet someone and record the time
 
 inputs:

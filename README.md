@@ -17,7 +17,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: actions/hello-world-javascript-action@vX.Y
+uses: rurream/Saludo-Action-CF-rurream@vX.Y
 with:
   who-to-greet: Mona the Octocat
 ```
